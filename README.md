@@ -12,5 +12,5 @@
    - cluster computing or high performance computing is highly recommended for generating the data for these tables and figures
    - details of the simulation for the paper is specified in Section 5
    - simulation efficiency is computed through the same laptop, the time might be different using different machines but the ratio should  be roughly the same
-   - since the data for all plots are more than 500 MB, data for the plots are not uploaded here but one should be able to re-generate the data for each model
+   - since the data for all plots are more than 500 MB, data for the plots are not uploaded here but one should be able to re-generate the data with the provided code
 
